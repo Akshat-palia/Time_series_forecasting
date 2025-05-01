@@ -31,4 +31,11 @@ Forecasting energy demand is critical for resource planning, operational efficie
 ---
 
 ## 📁 Project Structure
+```bash
+📦 Time_Series_Forecasting
+├── data/
+│   └── energy_demand.csv
+├── notebooks/
+│   └── energy_forecasting_arima.ipynb
+|── README.md
 
